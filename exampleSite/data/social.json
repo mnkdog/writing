@@ -1,14 +1,4 @@
 {
   "links": [
-    {
-      "name": "twitter",
-      "url": "",
-      "image": "images/social/twitter.svg"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com",
-      "image": "images/social/linkedin.svg"
-    }
   ]
 }
