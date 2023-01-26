@@ -2,13 +2,8 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "",
       "image": "images/social/twitter.svg"
-    },
-    {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
-      "image": "images/social/github.svg"
     },
     {
       "name": "linkedin",
