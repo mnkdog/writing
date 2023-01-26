@@ -31,8 +31,14 @@ Once we agree on objectives, I add them to the very top, one per column, of the 
 ---
 
 | Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the champion for Exploratory Testing |
-| ---- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ |
+| : ---- :| :-----------------------------------:| :----------------------------------------------:| :---------------------------------------:|
 |      |                                         |                                                 |                                            |
+
+
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
 
 ---
 
