@@ -1,6 +1,10 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Just start writing
+description: When wishing to free the words, just start writing.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+There is nothing better than expressing yourself with the written word.  There's an intimacy associated with the teamwork between your brain, your inner voice speaking out the words, your hands and fingers fashioning the characters before you, and your eyes closing the loop by reading what has just appeared. 
+
+That is your personal and private loop; a unique experience that you'll only ever re-create in a similar fashion but the words will be different and so will the thoughts.
+
+Writing is a one off. 
