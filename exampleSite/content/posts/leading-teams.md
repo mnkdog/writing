@@ -1,5 +1,5 @@
 ---
-title: Leading Teams and conducting 121 meetings
+title: Leading Teams and conducting 1:1 meetings
 date: 2019-08-07
 description: "I have adjusted how I lead teams and people over the years. I claim not to have *the best*, finely tuned, method; just a method that works for me and appears to have worked for the people I have led. What follows are my notes on the topic."
 image: images/cctv2.jpeg
@@ -30,7 +30,7 @@ Once we agree on objectives, I add them to the very top, one per column, of the 
 
 ---
 
-| Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the QA champion for Exploratory Testing |
+| Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the champion for Exploratory Testing |
 | ---- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ |
 |      |                                         |                                                 |                                            |
 
@@ -46,7 +46,7 @@ The first entry will have a first challenge towards achieving each objective.
 
 --- 
 
-| Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the QA champion for Exploratory Testing |
+| Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the champion for Exploratory Testing |
 | ---- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------ |
 |   20201221   |            We agreed Bob would look at current process; ascertain time it takes; he'll perhaps have suggestions for two weeks time on how to speed things up                             | By next time we meet, Bob to locate all manual scripted tests we have for X product, so we know the full coverage. We'll then start a task to review the tests to perform housekeeping maintenance on them.                                                | Bob to put a presentation slide show together on Exploratory Testing, just for review between us two. Then look to presenting to our small team to gather feedback.                                           |
 
