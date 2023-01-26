@@ -28,19 +28,12 @@ Over time I have come to value it more when organisational goals are at the team
 I create a spreadsheet for each individual on my team and explain it is *their* personal spreadsheet and not shared with HR or anyone else. 
 Once we agree on objectives, I add them to the very top, one per column, of the spreadsheet.
 
----
+
 
 | Date | Speed up continuous integration process | Reduce time required on scripted manual testing | Be the champion for Exploratory Testing |
 | : ---- :| :-----------------------------------:| :----------------------------------------------:| :---------------------------------------:|
 |      |                                         |                                                 |                                            |
 
-
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
-
----
 
 Above, you will see there are two *output* related, and measurable, objectives. I could add a metric in there (or key result, as Andy Grove called them) such as, speed up CI process by an average of 20%. I do not do this at the start but sometimes add metrics in as we progress through the weeks.
 
